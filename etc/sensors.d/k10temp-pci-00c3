@@ -1,0 +1,2 @@
+chip "k10temp-pci-00c3"
+  label temp1 "CPU"

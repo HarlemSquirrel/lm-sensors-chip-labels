@@ -1,0 +1,2 @@
+chip "amdgpu-pci-0100"
+  label temp1 "GPU"

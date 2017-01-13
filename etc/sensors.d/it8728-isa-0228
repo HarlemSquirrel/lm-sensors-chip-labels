@@ -1,5 +1,5 @@
 chip "it8728-isa-0228"
-  label fan1 "CPU Fan"
+  label fan1 "CPU"
   label temp1 "Mobo Temp 1"
   label temp2 "Mobo Temp 2"
   label temp3 "Mobo Temp 3"

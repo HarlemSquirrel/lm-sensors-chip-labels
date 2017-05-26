@@ -1,0 +1,5 @@
+chip "it8622-isa-0290"
+  label fan1 "CPU"
+  label temp1 "Mobo 1"
+  label temp2 "Mobo 2"
+  label temp3 "Mobo 3"
